@@ -1,4 +1,4 @@
 # Pruebas-entornos
 Ejemplo
-#Sección 1
-#Sección 2
+# Sección 1
+# Sección 2
